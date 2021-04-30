@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-30T16:53:12 IST" name="Default suite" finished-at="2021-04-30T16:53:43 IST" duration-ms="30989">
+    <groups>
+    </groups>
+    <test started-at="2021-04-30T16:53:12 IST" name="Default test" finished-at="2021-04-30T16:53:43 IST" duration-ms="30989">
+      <class name="com.session.local.RetrievingStorageData">
+        <test-method signature="LocalStorage()[pri:0, instance:com.session.local.RetrievingStorageData@2f8dad04]" started-at="2021-04-30T16:53:12 IST" name="LocalStorage" finished-at="2021-04-30T16:53:30 IST" duration-ms="18077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LocalStorage -->
+        <test-method signature="SessionStorage()[pri:0, instance:com.session.local.RetrievingStorageData@2f8dad04]" started-at="2021-04-30T16:53:30 IST" name="SessionStorage" finished-at="2021-04-30T16:53:43 IST" duration-ms="12842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SessionStorage -->
+      </class> <!-- com.session.local.RetrievingStorageData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
